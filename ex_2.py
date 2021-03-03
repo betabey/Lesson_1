@@ -9,4 +9,4 @@ if hour < 1 :
 else:
     minut = (time-(hour*3600))//60
     sec = (time -(hour*3600))-(minut * 60)
-print(f'{hour} ч:{minut} мин: {sec} сек')
+print(f'{hour} ч: {minut} мин: {sec} сек')
