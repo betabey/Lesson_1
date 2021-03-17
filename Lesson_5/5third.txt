@@ -1,0 +1,4 @@
+Ivanov : 45 т.руб
+Gudkov : 36 т.руб
+Lapin : 19 т.руб
+Gavrilov : 27 т.руб
